@@ -19,7 +19,7 @@ const projects = [
     title: "Portfolio Website",
     description:
       "Built a personal portfolio website using React and Framer Motion, showcasing projects, skills, and resume. Fully responsive and modern design with smooth scrolling and animated UI.",
-    liveLink: "#home", // your portfolio is live on localhost or deployed link
+    liveLink: "https://portfolio-1-o3d9.onrender.com/",
     githubLink: "https://github.com/CodewithAyu01/Portfolio",
   },
 ];

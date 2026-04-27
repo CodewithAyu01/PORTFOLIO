@@ -26,7 +26,7 @@ function Hero() {
 
         <p>
           MERN Developer and Software Engineering student with strong skills in Java,
-          Data Structures, and scalable web application development.
+          Data Structures,Machine Learning and scalable web application development.
         </p>
 
         <div className="hero-buttons">

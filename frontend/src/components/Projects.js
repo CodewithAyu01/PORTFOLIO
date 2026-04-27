@@ -22,6 +22,13 @@ const projects = [
     liveLink: "https://portfolio-1-o3d9.onrender.com/",
     githubLink: "https://github.com/CodewithAyu01/Portfolio",
   },
+  {
+    title: "AI-based Crop Recommendation System",
+    description:
+      "Developed an AI-based crop recommendation system using machine learning algorithms to analyze soil and weather data, providing personalized crop suggestions for farmers. Achieved 85% accuracy in recommendations, improving agricultural productivity.",
+    liveLink: "https://farmer-dmkc.onrender.com/",
+    githubLink: "https://github.com/CodewithAyu01/Farmer"
+  }
 ];
 
 function Projects() {
